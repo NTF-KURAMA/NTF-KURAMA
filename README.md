@@ -1,6 +1,6 @@
-### NTF Display
+### NTF Sensor 
 <b> 
-This is a display where show time,date,weather update, Alert,Video and Gameplay. 
+This is a sensor for alert Upcoming works and problems.
 </b>
 
 
