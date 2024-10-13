@@ -1,10 +1,10 @@
 ### NTF Media List (TM)
-
+<b>
  - Numbers.
  - Love Tonight.
  - Here To Heart.
  - The Love You Give Me.
  - Please Be Married.
- - Mr Right. 
+ - Mr Right. </b>
 
 
