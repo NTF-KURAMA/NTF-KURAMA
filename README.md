@@ -1,13 +1,5 @@
-### NTF Media List (TM)
-<b>
- 
- - Numbers.
- - Love Tonight.
- - Here To Heart.
- - The Love You Give Me.
- - Please Be Married.
- - Mr Right.
-
+### NTF Display
+<b> This is a display where show time,date,weather update, Alert,Video and Gameplay 
 </b>
 
 
