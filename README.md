@@ -1,6 +1,4 @@
 ### NTF Media List (TM)
-
-<b>  
  
  - Numbers.
 
@@ -13,5 +11,5 @@
  - Please Be Married.
 
  - Mr Right. 
-</b> 
+
 
