@@ -1,11 +1,10 @@
 ### NTF Restrictions 
 <b>
-
- - Telegram (1 hour/Day)
- - Facebook (Blocked)
- - YouTube (Blocked)
- - Free Fire (Blocked)
- - Max Player (4 hours/Day)
+  - Telegram 
+ App Name : Telegram 
+Status : Restricted
+Restriction Time : 1 hour
+Restriction Approved By : Moco
 </b>
 
 
