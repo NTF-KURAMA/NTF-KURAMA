@@ -1,6 +1,6 @@
 ### NTF Restrictions 
 <b>
-  - Telegram 
+ - Telegram 
  App Name : Telegram 
 Status : Restricted
 Restriction Time : 1 hour
